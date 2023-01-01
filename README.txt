@@ -1,3 +1,2 @@
-
-Server will prompt the user for the 'root' and 'port' to use on startup
-
+## A DNS Resolver built from the protocal specified in RFC 6195
+# https://www.rfc-editor.org/rfc/rfc6195
