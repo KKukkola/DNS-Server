@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networksdnslab", "networksdnslab\networksdnslab.csproj", "{BA47B581-212F-4A98-AC20-0B250992DD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client_tester", "client_tester\client_tester.csproj", "{38F3E8D3-E7F5-464C-919D-6EC0658B1875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA47B581-212F-4A98-AC20-0B250992DD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA47B581-212F-4A98-AC20-0B250992DD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA47B581-212F-4A98-AC20-0B250992DD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA47B581-212F-4A98-AC20-0B250992DD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F3E8D3-E7F5-464C-919D-6EC0658B1875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F3E8D3-E7F5-464C-919D-6EC0658B1875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F3E8D3-E7F5-464C-919D-6EC0658B1875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F3E8D3-E7F5-464C-919D-6EC0658B1875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1728BC8B-B775-44D8-9DB7-F78C0D36D672}
+	EndGlobalSection
+EndGlobal
